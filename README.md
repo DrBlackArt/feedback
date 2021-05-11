@@ -5,7 +5,3 @@
 ## Bug反馈 / Bug Report
 
 *指南和模板待补充*
-
-## 功能建议 / Feature Request
-
-*指南和模板待补充*
